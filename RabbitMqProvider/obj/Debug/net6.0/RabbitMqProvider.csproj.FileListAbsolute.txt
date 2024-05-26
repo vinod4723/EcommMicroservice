@@ -1,0 +1,12 @@
+D:\Study\Ecommerce\RabbitMqProvider\bin\Debug\net6.0\RabbitMqProvider.deps.json
+D:\Study\Ecommerce\RabbitMqProvider\bin\Debug\net6.0\RabbitMqProvider.dll
+D:\Study\Ecommerce\RabbitMqProvider\bin\Debug\net6.0\RabbitMqProvider.pdb
+D:\Study\Ecommerce\RabbitMqProvider\obj\Debug\net6.0\RabbitMqProvider.csproj.AssemblyReference.cache
+D:\Study\Ecommerce\RabbitMqProvider\obj\Debug\net6.0\RabbitMqProvider.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Ecommerce\RabbitMqProvider\obj\Debug\net6.0\RabbitMqProvider.AssemblyInfoInputs.cache
+D:\Study\Ecommerce\RabbitMqProvider\obj\Debug\net6.0\RabbitMqProvider.AssemblyInfo.cs
+D:\Study\Ecommerce\RabbitMqProvider\obj\Debug\net6.0\RabbitMqProvider.csproj.CoreCompileInputs.cache
+D:\Study\Ecommerce\RabbitMqProvider\obj\Debug\net6.0\RabbitMqProvider.dll
+D:\Study\Ecommerce\RabbitMqProvider\obj\Debug\net6.0\refint\RabbitMqProvider.dll
+D:\Study\Ecommerce\RabbitMqProvider\obj\Debug\net6.0\RabbitMqProvider.pdb
+D:\Study\Ecommerce\RabbitMqProvider\obj\Debug\net6.0\ref\RabbitMqProvider.dll

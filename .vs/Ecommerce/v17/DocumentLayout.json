@@ -1,0 +1,483 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{417543DA-7537-4B40-8FE5-0A0D11AF0C39}|RabbitMqProvider\\RabbitMqProvider.csproj|d:\\study\\ecommerce\\rabbitmqprovider\\rabitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417543DA-7537-4B40-8FE5-0A0D11AF0C39}|RabbitMqProvider\\RabbitMqProvider.csproj|solutionrelative:rabbitmqprovider\\rabitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417543DA-7537-4B40-8FE5-0A0D11AF0C39}|RabbitMqProvider\\RabbitMqProvider.csproj|d:\\study\\ecommerce\\rabbitmqprovider\\rabitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417543DA-7537-4B40-8FE5-0A0D11AF0C39}|RabbitMqProvider\\RabbitMqProvider.csproj|solutionrelative:rabbitmqprovider\\rabitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A6E1A8-BAAD-4009-9745-AF60FD57D576}|OrderService\\OrderService.csproj|d:\\study\\ecommerce\\orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A6E1A8-BAAD-4009-9745-AF60FD57D576}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A6E1A8-BAAD-4009-9745-AF60FD57D576}|OrderService\\OrderService.csproj|d:\\study\\ecommerce\\orderservice\\orderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44A6E1A8-BAAD-4009-9745-AF60FD57D576}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\orderservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E162791C-85E3-4852-B712-BC4EB8DF44B5}|DataLayer\\DataLayer.csproj|d:\\study\\ecommerce\\datalayer\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E162791C-85E3-4852-B712-BC4EB8DF44B5}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A6E1A8-BAAD-4009-9745-AF60FD57D576}|OrderService\\OrderService.csproj|d:\\study\\ecommerce\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44A6E1A8-BAAD-4009-9745-AF60FD57D576}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417543DA-7537-4B40-8FE5-0A0D11AF0C39}|RabbitMqProvider\\RabbitMqProvider.csproj|d:\\study\\ecommerce\\rabbitmqprovider\\irabitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417543DA-7537-4B40-8FE5-0A0D11AF0C39}|RabbitMqProvider\\RabbitMqProvider.csproj|solutionrelative:rabbitmqprovider\\irabitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417543DA-7537-4B40-8FE5-0A0D11AF0C39}|RabbitMqProvider\\RabbitMqProvider.csproj|d:\\study\\ecommerce\\rabbitmqprovider\\irabitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417543DA-7537-4B40-8FE5-0A0D11AF0C39}|RabbitMqProvider\\RabbitMqProvider.csproj|solutionrelative:rabbitmqprovider\\irabitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E162791C-85E3-4852-B712-BC4EB8DF44B5}|DataLayer\\DataLayer.csproj|d:\\study\\ecommerce\\datalayer\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E162791C-85E3-4852-B712-BC4EB8DF44B5}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2452941E-C601-4146-8CCA-0959F29BAAB4}|InventoryService\\InventoryService.csproj|d:\\study\\ecommerce\\inventoryservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2452941E-C601-4146-8CCA-0959F29BAAB4}|InventoryService\\InventoryService.csproj|solutionrelative:inventoryservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E162791C-85E3-4852-B712-BC4EB8DF44B5}|DataLayer\\DataLayer.csproj|d:\\study\\ecommerce\\datalayer\\orderprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E162791C-85E3-4852-B712-BC4EB8DF44B5}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\orderprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E162791C-85E3-4852-B712-BC4EB8DF44B5}|DataLayer\\DataLayer.csproj|d:\\study\\ecommerce\\datalayer\\rabbitmqconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E162791C-85E3-4852-B712-BC4EB8DF44B5}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\rabbitmqconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0541D5A1-6B2F-42D9-9C0A-B98C9491ACAB}|APIGetway\\APIGetway.csproj|d:\\study\\ecommerce\\apigetway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0541D5A1-6B2F-42D9-9C0A-B98C9491ACAB}|APIGetway\\APIGetway.csproj|solutionrelative:apigetway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2452941E-C601-4146-8CCA-0959F29BAAB4}|InventoryService\\InventoryService.csproj|d:\\study\\ecommerce\\inventoryservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2452941E-C601-4146-8CCA-0959F29BAAB4}|InventoryService\\InventoryService.csproj|solutionrelative:inventoryservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A6E1A8-BAAD-4009-9745-AF60FD57D576}|OrderService\\OrderService.csproj|d:\\study\\ecommerce\\orderservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44A6E1A8-BAAD-4009-9745-AF60FD57D576}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A6E1A8-BAAD-4009-9745-AF60FD57D576}|OrderService\\OrderService.csproj|d:\\study\\ecommerce\\orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44A6E1A8-BAAD-4009-9745-AF60FD57D576}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2452941E-C601-4146-8CCA-0959F29BAAB4}|InventoryService\\InventoryService.csproj|d:\\study\\ecommerce\\inventoryservice\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2452941E-C601-4146-8CCA-0959F29BAAB4}|InventoryService\\InventoryService.csproj|solutionrelative:inventoryservice\\controllers\\inventorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2452941E-C601-4146-8CCA-0959F29BAAB4}|InventoryService\\InventoryService.csproj|d:\\study\\ecommerce\\inventoryservice\\inventoryservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2452941E-C601-4146-8CCA-0959F29BAAB4}|InventoryService\\InventoryService.csproj|solutionrelative:inventoryservice\\inventoryservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0541D5A1-6B2F-42D9-9C0A-B98C9491ACAB}|APIGetway\\APIGetway.csproj|d:\\study\\ecommerce\\apigetway\\apigetway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0541D5A1-6B2F-42D9-9C0A-B98C9491ACAB}|APIGetway\\APIGetway.csproj|solutionrelative:apigetway\\apigetway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E162791C-85E3-4852-B712-BC4EB8DF44B5}|DataLayer\\DataLayer.csproj|d:\\study\\ecommerce\\datalayer\\iorderprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E162791C-85E3-4852-B712-BC4EB8DF44B5}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\iorderprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E162791C-85E3-4852-B712-BC4EB8DF44B5}|DataLayer\\DataLayer.csproj|d:\\study\\ecommerce\\datalayer\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E162791C-85E3-4852-B712-BC4EB8DF44B5}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0541D5A1-6B2F-42D9-9C0A-B98C9491ACAB}|APIGetway\\APIGetway.csproj|d:\\study\\ecommerce\\apigetway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0541D5A1-6B2F-42D9-9C0A-B98C9491ACAB}|APIGetway\\APIGetway.csproj|solutionrelative:apigetway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0541D5A1-6B2F-42D9-9C0A-B98C9491ACAB}|APIGetway\\APIGetway.csproj|d:\\study\\ecommerce\\apigetway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0541D5A1-6B2F-42D9-9C0A-B98C9491ACAB}|APIGetway\\APIGetway.csproj|solutionrelative:apigetway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0541D5A1-6B2F-42D9-9C0A-B98C9491ACAB}|APIGetway\\APIGetway.csproj|d:\\study\\ecommerce\\apigetway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0541D5A1-6B2F-42D9-9C0A-B98C9491ACAB}|APIGetway\\APIGetway.csproj|solutionrelative:apigetway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0541D5A1-6B2F-42D9-9C0A-B98C9491ACAB}|APIGetway\\APIGetway.csproj|d:\\study\\ecommerce\\apigetway\\ocelot.json||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0541D5A1-6B2F-42D9-9C0A-B98C9491ACAB}|APIGetway\\APIGetway.csproj|solutionrelative:apigetway\\ocelot.json||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44A6E1A8-BAAD-4009-9745-AF60FD57D576}|OrderService\\OrderService.csproj|d:\\study\\ecommerce\\orderservice\\orderservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{44A6E1A8-BAAD-4009-9745-AF60FD57D576}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\orderservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0541D5A1-6B2F-42D9-9C0A-B98C9491ACAB}|APIGetway\\APIGetway.csproj|d:\\study\\ecommerce\\apigetway\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0541D5A1-6B2F-42D9-9C0A-B98C9491ACAB}|APIGetway\\APIGetway.csproj|solutionrelative:apigetway\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RabitMQConsumer.cs",
+              "DocumentMoniker": "D:\\Study\\Ecommerce\\RabbitMqProvider\\RabitMQConsumer.cs",
+              "RelativeDocumentMoniker": "RabbitMqProvider\\RabitMQConsumer.cs",
+              "ToolTip": "D:\\Study\\Ecommerce\\RabbitMqProvider\\RabitMQConsumer.cs",
+              "RelativeToolTip": "RabbitMqProvider\\RabitMQConsumer.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T11:21:46.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RabitMQProducer.cs",
+              "DocumentMoniker": "D:\\Study\\Ecommerce\\RabbitMqProvider\\RabitMQProducer.cs",
+              "RelativeDocumentMoniker": "RabbitMqProvider\\RabitMQProducer.cs",
+              "ToolTip": "D:\\Study\\Ecommerce\\RabbitMqProvider\\RabitMQProducer.cs",
+              "RelativeToolTip": "RabbitMqProvider\\RabitMQProducer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T11:18:16.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\Ecommerce\\OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "OrderService\\Program.cs",
+              "ToolTip": "D:\\Study\\Ecommerce\\OrderService\\Program.cs",
+              "RelativeToolTip": "OrderService\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T14:59:54.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Study\\Ecommerce\\OrderService\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderService\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Study\\Ecommerce\\OrderService\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderService\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:14:49.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Study\\Ecommerce\\DataLayer\\Order.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Order.cs",
+              "ToolTip": "D:\\Study\\Ecommerce\\DataLayer\\Order.cs",
+              "RelativeToolTip": "DataLayer\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:05:21.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderService.csproj",
+              "DocumentMoniker": "D:\\Study\\Ecommerce\\OrderService\\OrderService.csproj",
+              "RelativeDocumentMoniker": "OrderService\\OrderService.csproj",
+              "ToolTip": "D:\\Study\\Ecommerce\\OrderService\\OrderService.csproj",
+              "RelativeToolTip": "OrderService\\OrderService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T15:36:02.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRabitMQProducer.cs",
+              "DocumentMoniker": "D:\\Study\\Ecommerce\\RabbitMqProvider\\IRabitMQProducer.cs",
+              "RelativeDocumentMoniker": "RabbitMqProvider\\IRabitMQProducer.cs",
+              "ToolTip": "D:\\Study\\Ecommerce\\RabbitMqProvider\\IRabitMQProducer.cs",
+              "RelativeToolTip": "RabbitMqProvider\\IRabitMQProducer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T11:17:52.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRabitMQConsumer.cs",
+              "DocumentMoniker": "D:\\Study\\Ecommerce\\RabbitMqProvider\\IRabitMQConsumer.cs",
+              "RelativeDocumentMoniker": "RabbitMqProvider\\IRabitMQConsumer.cs",
+              "ToolTip": "D:\\Study\\Ecommerce\\RabbitMqProvider\\IRabitMQConsumer.cs",
+              "RelativeToolTip": "RabbitMqProvider\\IRabitMQConsumer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T11:22:07.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RabbitMqConst.cs",
+              "DocumentMoniker": "D:\\Study\\Ecommerce\\DataLayer\\RabbitMqConst.cs",
+              "RelativeDocumentMoniker": "DataLayer\\RabbitMqConst.cs",
+              "ToolTip": "D:\\Study\\Ecommerce\\DataLayer\\RabbitMqConst.cs",
+              "RelativeToolTip": "DataLayer\\RabbitMqConst.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:40:08.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ocelot.Json",
+              "DocumentMoniker": "D:\\Study\\Ecommerce\\APIGetway\\Ocelot.Json",
+              "RelativeDocumentMoniker": "APIGetway\\Ocelot.Json",
+              "ToolTip": "D:\\Study\\Ecommerce\\APIGetway\\Ocelot.Json",
+              "RelativeToolTip": "APIGetway\\Ocelot.Json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T18:36:13.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderProvider.cs",
+              "DocumentMoniker": "D:\\Study\\Ecommerce\\DataLayer\\OrderProvider.cs",
+              "RelativeDocumentMoniker": "DataLayer\\OrderProvider.cs",
+              "ToolTip": "D:\\Study\\Ecommerce\\DataLayer\\OrderProvider.cs",
+              "RelativeToolTip": "DataLayer\\OrderProvider.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:12:58.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Study\\Ecommerce\\DataLayer\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataLayer\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Study\\Ecommerce\\DataLayer\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DataLayer\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:56:19.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\Ecommerce\\InventoryService\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryService\\Program.cs",
+              "ToolTip": "D:\\Study\\Ecommerce\\InventoryService\\Program.cs",
+              "RelativeToolTip": "InventoryService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:35:21.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Study\\Ecommerce\\OrderService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OrderService\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Study\\Ecommerce\\OrderService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OrderService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T18:21:48.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Study\\Ecommerce\\OrderService\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderService\\appsettings.json",
+              "ToolTip": "D:\\Study\\Ecommerce\\OrderService\\appsettings.json",
+              "RelativeToolTip": "OrderService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T14:50:09.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Study\\Ecommerce\\InventoryService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "InventoryService\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Study\\Ecommerce\\InventoryService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "InventoryService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T15:33:12.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "InventoryController.cs",
+              "DocumentMoniker": "D:\\Study\\Ecommerce\\InventoryService\\Controllers\\InventoryController.cs",
+              "RelativeDocumentMoniker": "InventoryService\\Controllers\\InventoryController.cs",
+              "ToolTip": "D:\\Study\\Ecommerce\\InventoryService\\Controllers\\InventoryController.cs",
+              "RelativeToolTip": "InventoryService\\Controllers\\InventoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:26:04.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "APIGetway.http",
+              "DocumentMoniker": "D:\\Study\\Ecommerce\\APIGetway\\APIGetway.http",
+              "RelativeDocumentMoniker": "APIGetway\\APIGetway.http",
+              "ToolTip": "D:\\Study\\Ecommerce\\APIGetway\\APIGetway.http",
+              "RelativeToolTip": "APIGetway\\APIGetway.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-22T15:32:58.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InventoryService.csproj",
+              "DocumentMoniker": "D:\\Study\\Ecommerce\\InventoryService\\InventoryService.csproj",
+              "RelativeDocumentMoniker": "InventoryService\\InventoryService.csproj",
+              "ToolTip": "D:\\Study\\Ecommerce\\InventoryService\\InventoryService.csproj",
+              "RelativeToolTip": "InventoryService\\InventoryService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T15:35:50.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Study\\Ecommerce\\DataLayer\\Product.cs",
+              "RelativeDocumentMoniker": "DataLayer\\Product.cs",
+              "ToolTip": "D:\\Study\\Ecommerce\\DataLayer\\Product.cs",
+              "RelativeToolTip": "DataLayer\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T15:21:59.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IOrderProvider.cs",
+              "DocumentMoniker": "D:\\Study\\Ecommerce\\DataLayer\\IOrderProvider.cs",
+              "RelativeDocumentMoniker": "DataLayer\\IOrderProvider.cs",
+              "ToolTip": "D:\\Study\\Ecommerce\\DataLayer\\IOrderProvider.cs",
+              "RelativeToolTip": "DataLayer\\IOrderProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:18:48.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Study\\Ecommerce\\APIGetway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APIGetway\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Study\\Ecommerce\\APIGetway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APIGetway\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T18:39:14.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Study\\Ecommerce\\APIGetway\\appsettings.json",
+              "RelativeDocumentMoniker": "APIGetway\\appsettings.json",
+              "ToolTip": "D:\\Study\\Ecommerce\\APIGetway\\appsettings.json",
+              "RelativeToolTip": "APIGetway\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T18:40:05.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\Ecommerce\\APIGetway\\Program.cs",
+              "RelativeDocumentMoniker": "APIGetway\\Program.cs",
+              "ToolTip": "D:\\Study\\Ecommerce\\APIGetway\\Program.cs",
+              "RelativeToolTip": "APIGetway\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:04:12.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Ocelot.Json",
+              "DocumentMoniker": "D:\\Study\\Ecommerce\\APIGetway\\Ocelot.Json",
+              "RelativeDocumentMoniker": "APIGetway\\Ocelot.Json",
+              "ToolTip": "D:\\Study\\Ecommerce\\APIGetway\\Ocelot.Json",
+              "RelativeToolTip": "APIGetway\\Ocelot.Json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-15T18:29:07.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderService.http",
+              "DocumentMoniker": "D:\\Study\\Ecommerce\\OrderService\\OrderService.http",
+              "RelativeDocumentMoniker": "OrderService\\OrderService.http",
+              "ToolTip": "D:\\Study\\Ecommerce\\OrderService\\OrderService.http",
+              "RelativeToolTip": "OrderService\\OrderService.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-15T14:50:07.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Study\\Ecommerce\\APIGetway\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "APIGetway\\WeatherForecast.cs",
+              "ToolTip": "D:\\Study\\Ecommerce\\APIGetway\\WeatherForecast.cs",
+              "RelativeToolTip": "APIGetway\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:05:01.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
