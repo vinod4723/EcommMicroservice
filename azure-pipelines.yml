@@ -16,27 +16,27 @@ variables:
 
 steps:
 - task: NuGetToolInstaller@1
-  name:"NugetToolInstaller"
-  displayName:"Nuget Tool Installer"
+  name: 'NugetToolInstaller'
+  displayName: 'Nuget Tool Installer'
 
 - task: NuGetCommand@2
-  name:"NugetRestore"
-  displayName:"Nuget Tool Restore"
+  name: 'NugetRestore'
+  displayName: 'Nuget Tool Restore'
   inputs:
     command: 'restore'
     restoreSolution: '**/*.sln'
     feedsToUse: 'select'
 
 - task: DotNetCoreCLI@2
-  name:"BuildSolution"
-  displayName:"Build Solution"
+  name: 'BuildSolution'
+  displayName: 'Build Solution'
   inputs:
     command: 'build'
     projects: '$(solution)'
 
 - task: PublishBuildArtifacts@1
-  name:"PublishSolution"
-  displayName:"Publish Solution"
+  name: 'PublishSolution'
+  displayName: 'Publish Solution'
   inputs:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
     ArtifactName: 'TestEcomProject'
