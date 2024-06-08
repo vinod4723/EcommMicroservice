@@ -28,10 +28,11 @@ steps:
     feedsToUse: 'select'
 
 - task: DotNetCoreCLI@2
-  name: 'BuildSolution'
-  displayName: 'Build Solution'
+  name: 'PublishSln'
+  displayName: 'Publish Solution Project'
   inputs:
-    command: 'build'
+    command: 'publish'
+    publishWebProjects: false
     projects: '$(solution)'
 
 - task: PublishBuildArtifacts@1
