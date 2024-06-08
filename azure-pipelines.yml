@@ -11,6 +11,7 @@ pool:
 
 variables:
   solution: '**/*.sln'
+  project: '**/*.csproj'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 
@@ -33,7 +34,7 @@ steps:
   inputs:
     command: 'publish'
     publishWebProjects: false
-    projects: '$(solution)'
+    projects: '$(project)'
 
 - task: PublishBuildArtifacts@1
   name: 'PublishSolution'
