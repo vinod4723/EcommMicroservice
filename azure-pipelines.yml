@@ -27,19 +27,21 @@ steps:
     command: 'restore'
     restoreSolution: '**/*.sln'
     feedsToUse: 'select'
-
 - task: DotNetCoreCLI@2
-  name: 'PublishSln'
-  displayName: 'Publish Solution Project'
+  name: 'publish'
+  displayName: 'Building and publishing the project'
   inputs:
     command: 'publish'
     publishWebProjects: false
     projects: '$(project)'
+    arguments: '--configuration $(buildConfiguration) --output $(build.artifactstaginfdirectory)$(build.)('
+    zipAfterPublish: false
+
 
 - task: PublishBuildArtifacts@1
-  name: 'PublishSolution'
-  displayName: 'Publish Solution'
+  name: 'PublishingToArtifact'
+  displayName: 'Publishing To Artifact'
   inputs:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
-    ArtifactName: 'TestEcomProject'
+    ArtifactName: 'AzureTestProject'
     publishLocation: 'Container'
