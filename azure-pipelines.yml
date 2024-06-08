@@ -1,0 +1,43 @@
+# ASP.NET Core (.NET Framework)
+# Build and test ASP.NET Core projects targeting the full .NET Framework.
+# Add steps that publish symbols, save build artifacts, and more:
+# https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core
+
+trigger:
+- master
+
+pool:
+  vmImage: 'windows-latest'
+
+variables:
+  solution: '**/*.sln'
+  buildPlatform: 'Any CPU'
+  buildConfiguration: 'Release'
+
+steps:
+- task: NuGetToolInstaller@1
+  name:"NugetToolInstaller"
+  displayName:"Nuget Tool Installer"
+
+- task: NuGetCommand@2
+  name:"NugetRestore"
+  displayName:"Nuget Tool Restore"
+  inputs:
+    command: 'restore'
+    restoreSolution: '**/*.sln'
+    feedsToUse: 'select'
+
+- task: DotNetCoreCLI@2
+  name:"BuildSolution"
+  displayName:"Build Solution"
+  inputs:
+    command: 'build'
+    projects: '$(solution)'
+
+- task: PublishBuildArtifacts@1
+  name:"PublishSolution"
+  displayName:"Publish Solution"
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'TestEcomProject'
+    publishLocation: 'Container'
