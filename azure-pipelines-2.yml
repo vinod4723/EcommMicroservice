@@ -18,13 +18,21 @@ stages:
 
         steps:
         - task: DotNetCoreCLI@2
-          displayName: 'Build Application'
+          displayName: 'Build API Getway Project'
           inputs:
             command: 'publish'
             publishWebProjects: true
+            projects: '**/APIGetway/APIGetway.csproj'
             arguments: '--configuration $(buildConfiguration) --output $(Build.BinariesDirectory)/$(Build.BuildId)'
             modifyOutputPath: false
-          
+        - task: DotNetCoreCLI@2
+          displayName: 'Build Oder Service Project'
+          inputs:
+            command: 'publish'
+            publishWebProjects: true
+            projects: '**/OrderService/OrderService.csproj'
+            arguments: '--configuration $(buildConfiguration) --output $(Build.BinariesDirectory)/$(Build.BuildId)'
+            modifyOutputPath: false 
         - task: PublishBuildArtifacts@1
           displayName: 'Publish Web Artifact'
           inputs:
