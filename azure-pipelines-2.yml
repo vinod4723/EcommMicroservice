@@ -24,7 +24,6 @@ stages:
             publishWebProjects: true
             arguments: '--configuration $(buildConfiguration) --output $(Build.BinariesDirectory)/$(Build.BuildId)'
             modifyOutputPath: false
-            workingDirectory: 'src'
           
         - task: PublishBuildArtifacts@1
           displayName: 'Publish Web Artifact'
